@@ -1,0 +1,11 @@
+.logdesign{
+  width: 100%;
+  height: 2.40em;
+  background-color: black;
+  color: "primary";
+  margin-top: 10px;
+  border-radius: 7px;
+}
+.linkdesign{
+  background-color: black;
+}
